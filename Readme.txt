@@ -12,7 +12,7 @@ CampusNotes is a simple project designed to organize academic notes subject-wise
 - Subject-wise notes organization
 - Easy access to study material
 - Reusable notes template
-- Organized folder structure
+- Organized file structure
 
 ## Purpose
 This project is created as part of the Version Control System assignment to practice Git and GitHub operations.
