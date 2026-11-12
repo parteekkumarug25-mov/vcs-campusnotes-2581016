@@ -5,7 +5,7 @@
 *Course:* Version Control System (CSE25303)
 
 ## About the Project
-CampusNotes is a simple project designed to organize academic notes subject-wise.
+CampusNotes helps students manage academic notes and study materials in a simple, subject-wise structure.
 
 ## Features
 - Quick revision checklist for exam preparation
