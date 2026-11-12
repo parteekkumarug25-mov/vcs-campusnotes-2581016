@@ -16,3 +16,8 @@ CampusNotes is a simple project designed to organize academic notes subject-wise
 
 ## Purpose
 This project is created as part of the Version Control System assignment to practice Git and GitHub operations.
+
+## How to Use
+1. Open the subject-wise folder.
+2. Select the required study material.
+3. Use the notes for revision and exam preparation.
