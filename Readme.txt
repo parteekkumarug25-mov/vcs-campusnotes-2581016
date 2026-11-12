@@ -27,7 +27,7 @@ CampusNotes/
 ## How to Use
 1. Create a folder for each subject.
 2. Add notes in the relevant subject folder.
-3. Use the reusable notes template.
+3. Copy templates/notes-template.md into your subject folder and fill it in.
 4. Keep study material organized by topic.
 
 ## Contribution
